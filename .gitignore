@@ -1,0 +1,7 @@
+# Áudios e transcrições são pessoais: não versionar
+audios/*
+!audios/.gitkeep
+transcricoes/
+.venv/
+venv/
+__pycache__/
